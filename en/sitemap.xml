@@ -14,6 +14,16 @@
       href="https://ujnloci.github.io/en/event/example/"
     /></url>
   <url>
+    <loc>https://ujnloci.github.io/en/project/example/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://ujnloci.github.io/zh/project/example/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ujnloci.github.io/en/project/example/"
+    /></url>
+  <url>
     <loc>https://ujnloci.github.io/en/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="zh"
@@ -32,6 +42,16 @@
       rel="alternate"
       hreflang="en"
       href="https://ujnloci.github.io/en/event/"
+    /></url>
+  <url>
+    <loc>https://ujnloci.github.io/en/project/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://ujnloci.github.io/zh/project/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ujnloci.github.io/en/project/"
     /></url>
   <url>
     <loc>https://ujnloci.github.io/en/post/20-12-02-icml-best-paper/</loc><lastmod>2020-12-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -224,20 +244,12 @@
       href="https://ujnloci.github.io/en/categories/"
     /></url>
   <url>
-    <loc>https://ujnloci.github.io/en/author/test/</loc><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://ujnloci.github.io/zh/author/test/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ujnloci.github.io/en/author/test/"
-    /></url>
+    <loc>https://ujnloci.github.io/en/author/test/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ujnloci.github.io/en/tour/</loc><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://ujnloci.github.io/zh/tour/"
+      href=""
     /><xhtml:link
       rel="alternate"
       hreflang="en"
