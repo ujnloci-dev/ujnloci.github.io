@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Latest News | UJN-网络智能实验室</title>
+    <title>动态 | UJN-网络智能实验室</title>
     <link>https://ujnloci.github.io/zh/post/</link>
       <atom:link href="https://ujnloci.github.io/zh/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Latest News</description>
+    <description>动态</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ujnloci.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
-      <title>Latest News</title>
+      <title>动态</title>
       <link>https://ujnloci.github.io/zh/post/</link>
     </image>
     

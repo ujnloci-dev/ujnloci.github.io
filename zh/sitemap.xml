@@ -14,6 +14,16 @@
       href="https://ujnloci.github.io/zh/event/example/"
     /></url>
   <url>
+    <loc>https://ujnloci.github.io/zh/project/example/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ujnloci.github.io/en/project/example/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://ujnloci.github.io/zh/project/example/"
+    /></url>
+  <url>
     <loc>https://ujnloci.github.io/zh/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -32,6 +42,16 @@
       rel="alternate"
       hreflang="zh"
       href="https://ujnloci.github.io/zh/"
+    /></url>
+  <url>
+    <loc>https://ujnloci.github.io/zh/project/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ujnloci.github.io/en/project/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://ujnloci.github.io/zh/project/"
     /></url>
   <url>
     <loc>https://ujnloci.github.io/zh/post/20-12-02-icml-best-paper/</loc><lastmod>2020-12-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -114,16 +134,6 @@
       href="https://ujnloci.github.io/zh/publication_types/"
     /></url>
   <url>
-    <loc>https://ujnloci.github.io/zh/publication/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ujnloci.github.io/en/publication/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://ujnloci.github.io/zh/publication/"
-    /></url>
-  <url>
     <loc>https://ujnloci.github.io/zh/tag/source-themes/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -142,6 +152,16 @@
       rel="alternate"
       hreflang="zh"
       href="https://ujnloci.github.io/zh/tags/"
+    /></url>
+  <url>
+    <loc>https://ujnloci.github.io/zh/publication/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ujnloci.github.io/en/publication/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://ujnloci.github.io/zh/publication/"
     /></url>
   <url>
     <loc>https://ujnloci.github.io/zh/publication-type/2/</loc><lastmod>2015-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -224,26 +244,14 @@
       href="https://ujnloci.github.io/zh/categories/"
     /></url>
   <url>
-    <loc>https://ujnloci.github.io/zh/author/tcmd/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ujnloci.github.io/zh/author/test/</loc><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://ujnloci.github.io/zh/home/</loc><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://ujnloci.github.io/en/author/test/"
+      href=""
     /><xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://ujnloci.github.io/zh/author/test/"
-    /></url>
-  <url>
-    <loc>https://ujnloci.github.io/zh/tour/</loc><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ujnloci.github.io/en/tour/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://ujnloci.github.io/zh/tour/"
+      href="https://ujnloci.github.io/zh/home/"
     /></url>
   <url>
     <loc>https://ujnloci.github.io/zh/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc><changefreq>weekly</changefreq><xhtml:link
