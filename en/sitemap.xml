@@ -14,15 +14,7 @@
       href="https://ujnloci.github.io/en/event/example/"
     /></url>
   <url>
-    <loc>https://ujnloci.github.io/en/project/example/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://ujnloci.github.io/zh/project/example/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ujnloci.github.io/en/project/example/"
-    /></url>
+    <loc>https://ujnloci.github.io/en/project/example/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ujnloci.github.io/en/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"

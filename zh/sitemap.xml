@@ -14,16 +14,6 @@
       href="https://ujnloci.github.io/zh/event/example/"
     /></url>
   <url>
-    <loc>https://ujnloci.github.io/zh/project/example/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ujnloci.github.io/en/project/example/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://ujnloci.github.io/zh/project/example/"
-    /></url>
-  <url>
     <loc>https://ujnloci.github.io/zh/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -44,14 +34,16 @@
       href="https://ujnloci.github.io/zh/"
     /></url>
   <url>
-    <loc>https://ujnloci.github.io/zh/project/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://ujnloci.github.io/zh/post/start/</loc><lastmod>2022-10-26T10:44:30+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ujnloci.github.io/zh/post/</loc><lastmod>2022-10-26T10:44:30+08:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://ujnloci.github.io/en/project/"
+      href="https://ujnloci.github.io/en/post/"
     /><xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://ujnloci.github.io/zh/project/"
+      href="https://ujnloci.github.io/zh/post/"
     /></url>
   <url>
     <loc>https://ujnloci.github.io/zh/post/20-12-02-icml-best-paper/</loc><lastmod>2020-12-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -62,16 +54,6 @@
       rel="alternate"
       hreflang="zh"
       href="https://ujnloci.github.io/zh/post/20-12-02-icml-best-paper/"
-    /></url>
-  <url>
-    <loc>https://ujnloci.github.io/zh/post/</loc><lastmod>2020-12-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ujnloci.github.io/en/post/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://ujnloci.github.io/zh/post/"
     /></url>
   <url>
     <loc>https://ujnloci.github.io/zh/post/20-12-01-wowchemy-prize/</loc><lastmod>2020-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -254,6 +236,10 @@
       href="https://ujnloci.github.io/zh/home/"
     /></url>
   <url>
+    <loc>https://ujnloci.github.io/zh/author/%E5%88%98%E9%9B%A8%E6%99%A8/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ujnloci.github.io/zh/author/%E5%90%91%E6%B3%BD%E9%9B%84/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://ujnloci.github.io/zh/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -264,4 +250,18 @@
       href="https://ujnloci.github.io/zh/author/%E5%90%B3%E6%81%A9%E9%81%94/"
     /></url>
   <url>
-    <loc>https://ujnloci.github.io/zh/author/%E6%AC%A7%E9%98%B3%E8%B0%A8/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://ujnloci.github.io/zh/author/%E6%9D%8E%E7%BF%B0%E6%96%87/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ujnloci.github.io/zh/author/%E6%AC%A7%E9%98%B3%E8%B0%A8/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ujnloci.github.io/zh/author/%E8%B5%B5%E6%AC%A3%E6%80%A1/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ujnloci.github.io/zh/project/</loc><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ujnloci.github.io/en/project/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://ujnloci.github.io/zh/project/"
+    /></url></urlset>
