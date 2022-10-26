@@ -5,12 +5,21 @@
     <link>https://ujnloci.github.io/zh/post/</link>
       <atom:link href="https://ujnloci.github.io/zh/post/index.xml" rel="self" type="application/rss+xml" />
     <description>动态</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 26 Oct 2022 10:44:30 +0800</lastBuildDate>
     <image>
       <url>https://ujnloci.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>动态</title>
       <link>https://ujnloci.github.io/zh/post/</link>
     </image>
+    
+    <item>
+      <title>Start</title>
+      <link>https://ujnloci.github.io/zh/post/start/</link>
+      <pubDate>Wed, 26 Oct 2022 10:44:30 +0800</pubDate>
+      <guid>https://ujnloci.github.io/zh/post/start/</guid>
+      <description>&lt;p&gt;2022-10-26 LOCI新版本课题组正式发布啦&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title>
